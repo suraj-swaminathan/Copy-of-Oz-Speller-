@@ -10,7 +10,7 @@ Notes:
 - Press esc to quit
 - MAKE SURE refresh_rate IS SET TO YOUR MONITOR'S REFRESH RATE
 """
-
+## comments 
 from psychopy import visual, core
 from psychopy.hardware import keyboard
 import numpy as np
