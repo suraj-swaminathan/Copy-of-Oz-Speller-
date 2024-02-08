@@ -1,3 +1,4 @@
+## Animation for SSVEP flickering keyboard. Codes for key position, size, flicker frequency, phase shift, # of Frames,
 from psychopy import visual, core
 from psychopy.hardware import keyboard
 import numpy as np
