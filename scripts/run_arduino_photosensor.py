@@ -1,3 +1,4 @@
+## encodes for photosensor to ensure that SSVEP flickering is aligned.
 import serial, threading, multiprocessing, time
 from pylsl import local_clock
 import numpy as np
